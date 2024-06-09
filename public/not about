@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Zytekaron</title>
+<link href="/styles/global.css" rel="stylesheet" />
+<script src="/js/global.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&display=swap" rel="stylesheet" />
+<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js"></script>
+<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<script src="/bootstrap/js/bootstrap.bundle.min.js"></script>
+<link href="/bootstrap/bootstrap-icons/font/bootstrap-icons.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+<script src="/vanta/vanta.birds.min.js"></script>
+<script src="/vanta/vanta.net.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="darkreader-lock">
+</head>
+<body>
+<div id="vanta-container"></div>
+<nav class="navbar navbar-expand-lg navbar-dark blur-background-3 bg-transparent d-flex ps-2 pe-2 pb-3 pt-3 border-bottom border-dark">
+<div class="container-fluid">
+<a class="navbar-brand" href="/">Zytekaron</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav">
+<li class="nav-item">
+<a class="nav-link " href="/" target="_self">Home
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link active" href="/about" target="_self">About
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link " href="/projects" target="_self">Projects
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link " href="/referrals" target="_self">Referrals
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link " href="/docs" target="_blank">Docs
+<i class="ms-1 bi bi-box-arrow-up-right text-secondary"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<div id="main">
+<div class="container"><div class="container pb-4 pt-4 mb-4 glassmorphism">
+<div class="row ms-1">
+
+<div class="col-md-6 text-center order-md-2">
+<img src="/assets/pfp.png" class="img-fluid rounded-circle" alt="My Picture" height="400px" width="400px" />
+<h3 class="mt-2">Michael Thornes</h3>
+</div>
+
+<div class="pt-3 pb-3 col-12 d-block d-md-none">
+<div class="border-top border-2"></div>
+</div>
+
+<div class="col-md-6 order-md-1">
+<h2 class="text-center d-block d-md-none">About Me</h2>
+<h2 class="d-none d-md-block">About Me</h2>
+<div><p>Hi! I’m Michael. I’m 20, I’m a tech nerd, and I’ve been a writing software for myself for around 6 years. I spend most of my free time writing in Go, Node.js, and other languages I’m learning on the side, including C and C++. I’m also interested in applied security and cryptography, and methods to maintain privacy and anonymity online.</p>
+<p>I’m a former Taekwondo sport competitor, and I’ve competed in many tournaments ranging from local to national. I’ve trained at two different dojangs over the course of 14 years, and I’m proud to say I’ve reached the rank of 4th Dan (4th Degree Black Belt), recognized by Kukkiwon. I’ve been able to make many lasting friends along the way, both during training and competition, and I’ve enjoyed every minute of it.</p>
+<p>Feel free to get in contact with me if you’d like to discuss anything.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="bg-transparent center w-100 position-static"> 
+<div class="container">
+
+<div id="footer-socials" class="flex-row footer-socials">
+<a class="p-2 rounded-circle fs-4" href="/cdn-cgi/l/email-protection#7e13171d161f1b123e04070a1b50131b" target="_blank"><i class="bi bi-envelope-at"></i></a>
+<a class="p-2 rounded-circle fs-4" href="https://github.com/Zytekaron" target="_blank"><i class="bi bi-github"></i></a>
+<a class="p-2 rounded-circle fs-4" href="https://discord.gg/FfzwgUm" target="_blank"><i class="bi bi-discord"></i></a>
+<a class="p-2 rounded-circle fs-4" href="https://t.me/Zytekaron" target="_blank"><i class="bi bi-telegram"></i></a>
+<a class="p-2 rounded-circle fs-4" href="https://signal.me/#eu/xuGPwTY4-uE2L5_Sn9_7HvfXlQ1AVcRF0n1-u4gQxcJq0tJ0KLRFMJvyaJDupgFv" target="_blank"><i class="bi bi-signal"></i></a>
+<a class="p-2 rounded-circle fs-4" href="https://www.linkedin.com/in/michael-thornes-04bb10240/" target="_blank"><i class="bi bi-linkedin"></i></a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+      VANTA.NET({
+        el: "#vanta-container",
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: false,
+        minHeight: 200.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 1.00,
+        color: 0x22DD88,
+        backgroundColor: 0x101010
+      });
+    </script>
+</body>
+</html>
+

@@ -1,11 +1,11 @@
 [
   {
-    "title": "zytekaron.com",
+    "title": "[insert domain here]",
     "description": "This website! It's open-source, feel free to contribute :p",
     "buttons": [
       {
         "icon": "github",
-        "url": "https://github.com/Zytekaron/zytekaron.com"
+        "url": "https://github.com/CyPlayz/website"
       }
     ],
     "pinned": true
