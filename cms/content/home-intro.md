@@ -1,3 +1,3 @@
-# CyPlayz
+# Cylis Shults
 
-Hello! My name is Cy, I'm a 18-year-old IT Major.
+Hello! My name is <b>Cy</b>, I'm a 19-year-old CIT Major and Software Developer.

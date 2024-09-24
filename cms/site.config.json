@@ -13,16 +13,8 @@
         {
           "text": "Projects",
           "href": "/projects"
-        },
-        {
-          "text": "Referrals",
-          "href": "/referrals"
-        },
-        {
-          "text": "Docs",
-          "href": "/docs",
-          "external": true
         }
+        
       ]
     },
       "socials": [
@@ -33,7 +25,7 @@
         },
         {
           "name": "GitHub",
-          "href": "https://github.com/Zytekaron"
+          "href": "https://github.com/CyPlayz"
         },
         {
           "name": "Discord",
@@ -44,12 +36,13 @@
           "href": "https://t.me/Zytekaron"
         },
         {
+          "hide":true,
           "name": "Signal",
           "href": "https://signal.me/#eu/xuGPwTY4-uE2L5_Sn9_7HvfXlQ1AVcRF0n1-u4gQxcJq0tJ0KLRFMJvyaJDupgFv"
         },
         {
           "name": "Linkedin",
-          "href": "https://www.linkedin.com/in/michael-thornes-04bb10240/"
+          "href": "https://www.linkedin.com/in/Cylis/"
         },
         {
           "hide": true,
@@ -62,9 +55,9 @@
           "href": "#"
         },
         {
-          "hide": true,
+          "hide": false,
           "name": "Twitter",
-          "href": "#",
+          "href": "https://x.com/CyPlayzz",
           "icon": "twitter-x"
         }
       ],
