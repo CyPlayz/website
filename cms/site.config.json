@@ -20,7 +20,7 @@
       "socials": [
         {
           "name": "Email",
-          "href": "mailto:michael@zyte.me",
+          "href": "mailto:business@cyplayz.com",
           "icon": "envelope-at"
         },
         {
@@ -46,6 +46,12 @@
           "name": "Twitter",
           "href": "https://x.com/CyPlayzz",
           "icon": "twitter-x"
+        },
+        {
+          "name":"Steam",
+          "href":"https://steamcommunity.com/id/CyPlayz/",
+          "icon":"steam"
+        
         },
         {
           "name": "Linkedin",
