@@ -1,6 +1,7 @@
 # Editor/IDE directories
 .idea
 .vscode
+.notes.txt
 
 # MacOS stuff
 .DS_Store
