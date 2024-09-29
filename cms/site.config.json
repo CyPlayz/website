@@ -29,9 +29,10 @@
         },
         {
           "name": "Discord",
-          "href": "https://discord.gg/FfzwgUm"
+          "href": "https://discord.gg/YjdkYr7"
         },
         {
+          "hide":true,
           "name": "Telegram",
           "href": "https://t.me/Zytekaron"
         },
@@ -39,6 +40,12 @@
           "hide":true,
           "name": "Signal",
           "href": "https://signal.me/#eu/xuGPwTY4-uE2L5_Sn9_7HvfXlQ1AVcRF0n1-u4gQxcJq0tJ0KLRFMJvyaJDupgFv"
+        },
+        {
+          "hide": false,
+          "name": "Twitter",
+          "href": "https://x.com/CyPlayzz",
+          "icon": "twitter-x"
         },
         {
           "name": "Linkedin",
@@ -53,13 +60,8 @@
           "hide": true,
           "name": "Reddit",
           "href": "#"
-        },
-        {
-          "hide": false,
-          "name": "Twitter",
-          "href": "https://x.com/CyPlayzz",
-          "icon": "twitter-x"
         }
+        
       ],
     "pages": {
       "about": {
